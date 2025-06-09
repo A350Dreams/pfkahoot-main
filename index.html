@@ -30,7 +30,9 @@
 
     <div class="text-center mt-10">
       <p class="text-sm text-gray-500">Not logged in?</p>
-      <a href="https://pfkahoot-backend.onrender.com/auth/discord" class="text-blue-600 underline">Log in with Discord</a>
+      <a href="https://a350dreams.github.io/pfkahoot-login/" class="text-blue-600 underline">Log in</a>
+        <p class="text-sm text-gray-500 mt-2">Don't have an account?</p>
+        <a href="https://a350dreams.github.io/pfkahoot-signup/" class="text-blue-600 underline">Sign up</a>
     </div>
   </div>
 
